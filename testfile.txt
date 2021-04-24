@@ -1,1 +1,4 @@
-Hi, I'm learning Devops!
+Hi, I'm learning devops!
+
+Its fun to learn GIT and github!
+
